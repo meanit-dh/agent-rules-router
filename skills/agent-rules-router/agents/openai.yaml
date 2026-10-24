@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Rules Router"
+  short_description: "Select task rules and manage temporary profiles"
+  default_prompt: "Use $agent-rules-router to inspect my active instructions and prepare the rules needed for this task."
